@@ -1,0 +1,7 @@
+local:
+  service: Disk
+  root: tmp/storage/local
+
+test:
+  service: Disk
+  root: tmp/storage/test
